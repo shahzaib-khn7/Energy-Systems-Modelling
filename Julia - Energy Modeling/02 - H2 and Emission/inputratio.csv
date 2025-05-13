@@ -1,0 +1,6 @@
+﻿technology,fuel,value
+CoalPowerPlant,Coal,1
+GasPowerPlant,Gas,1
+CoalCHPPlant,Coal,1
+GasCHPPlant,Gas,1
+Power2Gas,Power,2
